@@ -1,9 +1,8 @@
 {
  "start_url": "index.htm",
  "name": "The Fritz's Burger - Tour Virtual 360°",
- "theme_color": "#FFFFFF",
  "description": "Rua Brigadeiro Henrique Fontenelle, 420 - Parque Sao Domingos, São Paulo - SP, 05125-000",
- "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +40,6 @@
    "src": "misc/icon16.png"
   }
  ],
+ "background_color": "#FFFFFF",
  "display": "fullscreen"
 }
